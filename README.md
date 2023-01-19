@@ -58,7 +58,7 @@ export class AppModule {}
 
 # Controllers
 
-Used to handle REST operations (HTTP methods).
+Used to handle REST operations (HTTP methods)
 
 // app.controller.ts
 
